@@ -1,16 +1,20 @@
-## Hi there 👋
+# 💫 About Me
 
-<!--
-**mauricezountekpo/mauricezountekpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Maurice, a frontend developer creating modern, accessible, and user-friendly web interfaces.
 
-Here are some ideas to get you started:
+💡 **Mission :** Turning ideas into smooth, visually appealing, well-structured web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Skills**
+
+- HTML5, CSS3, Sass, responsive design, accessibility
+- Learning : JavaScript (ES6+) & React.js
+
+🌍 **Drive :** Contributing to creative and impactful projects.
+
+🤝 **Why work with me ?**
+
+- Strong technical foundations & clean code
+- Continuous learner, motivated & collaborative
+- Quick to integrate and contribute to teams
+
+📩 Looking for a motivated, reliable developer ? Let’s connect !
