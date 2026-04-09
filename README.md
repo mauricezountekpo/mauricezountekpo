@@ -19,4 +19,4 @@ My goal is to turn ideas into smooth, visually appealing, and well-structured we
 ## Looking to collaborate ?
 
 I am open to opportunities and creative projects.
-Feel free to reach out, let us build something great together.
+Feel free to reach out. Let us build something great together.
