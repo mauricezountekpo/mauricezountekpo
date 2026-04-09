@@ -1,20 +1,22 @@
-# 💫 About Me
+# About Me
 
-👋 Hi, I’m Maurice, a frontend developer creating modern, accessible, and user-friendly web interfaces.
+I am a frontend developer focused on building modern, accessible, and user-friendly web interfaces.
+My goal is to turn ideas into smooth, visually appealing, and well-structured web experiences.
 
-💡 **Mission :** Turning ideas into smooth, visually appealing, well-structured web experiences.
+## Skills
 
-🚀 **Skills**
+- HTML5, CSS3, Sass
+- JavaScript (ES6+), Vue.js
+- Git, GitHub
+- SEO & accessibility best practices
 
-- HTML5, CSS3, Sass, responsive design, accessibility
-- Learning : JavaScript (ES6+) & React.js
+## What I Bring
 
-🌍 **Drive :** Contributing to creative and impactful projects.
+- Clean code and strong technical foundations
+- A continuous learning mindset and collaborative attitude
+- The ability to integrate quickly and contribute meaningfully to a team
 
-🤝 **Why work with me ?**
+## Looking to collaborate ?
 
-- Strong technical foundations & clean code
-- Continuous learner, motivated & collaborative
-- Quick to integrate and contribute to teams
-
-📩 Looking for a motivated, reliable developer ? Let’s connect !
+I am open to opportunities and creative projects.
+Feel free to reach out, let us build something great together.
